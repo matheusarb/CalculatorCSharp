@@ -1,0 +1,15 @@
+C:\dev\CalculatorCSharp\bin\Debug\net7.0\CalculatorCSharp.exe
+C:\dev\CalculatorCSharp\bin\Debug\net7.0\CalculatorCSharp.deps.json
+C:\dev\CalculatorCSharp\bin\Debug\net7.0\CalculatorCSharp.runtimeconfig.json
+C:\dev\CalculatorCSharp\bin\Debug\net7.0\CalculatorCSharp.dll
+C:\dev\CalculatorCSharp\bin\Debug\net7.0\CalculatorCSharp.pdb
+C:\dev\CalculatorCSharp\obj\Debug\net7.0\CalculatorCSharp.csproj.AssemblyReference.cache
+C:\dev\CalculatorCSharp\obj\Debug\net7.0\CalculatorCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CalculatorCSharp\obj\Debug\net7.0\CalculatorCSharp.AssemblyInfoInputs.cache
+C:\dev\CalculatorCSharp\obj\Debug\net7.0\CalculatorCSharp.AssemblyInfo.cs
+C:\dev\CalculatorCSharp\obj\Debug\net7.0\CalculatorCSharp.csproj.CoreCompileInputs.cache
+C:\dev\CalculatorCSharp\obj\Debug\net7.0\CalculatorCSharp.dll
+C:\dev\CalculatorCSharp\obj\Debug\net7.0\refint\CalculatorCSharp.dll
+C:\dev\CalculatorCSharp\obj\Debug\net7.0\CalculatorCSharp.pdb
+C:\dev\CalculatorCSharp\obj\Debug\net7.0\CalculatorCSharp.genruntimeconfig.cache
+C:\dev\CalculatorCSharp\obj\Debug\net7.0\ref\CalculatorCSharp.dll
